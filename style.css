@@ -111,9 +111,10 @@ a:hover {
 
 #snapshot {
 	position: relative;
+	line-height: 150%;
 	top: 125px;
 	width: 30%;
-	height: 358px;
+	height: auto;
 	z-index: 1;
 	float: left;
 	font-size: 16px;
@@ -126,4 +127,6 @@ a:hover {
 
 h3 {
 	color: red;
+	letter-spacing: 2px;
+	font-variant: small-caps;
 }
