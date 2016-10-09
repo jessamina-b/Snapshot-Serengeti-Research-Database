@@ -10,11 +10,11 @@ html {
 }
 
 .index-bg {
-	background-image: url(Images/lion4.jpg);
+	background-image: url(_Images/lion4.jpg);
 }
 
 .about-bg {
-	background-image: url(Images/zebra.jpg);
+	background-image: url(_Images/zebra.jpg);
 }
 
 .help-bg {
