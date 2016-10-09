@@ -10,26 +10,26 @@ html {
 }
 
 .index-bg {
-	background-image: url(_Images/lion4.jpg);
+	background-image: url(Images/lion4.jpg);
 }
 
 .about-bg {
-	background-image: url(_Images/zebra.jpg);
+	background-image: url(Images/zebra.jpg);
 }
 
 .help-bg {
-	background-image: url(_Images/deer.jpg);
+	background-image: url(Images/deer.jpg);
 	background-position: top;
 }
 .upload-bg {
-	background-image: url(_Images/elephant.jpg);
+	background-image: url(Images/elephant.jpg);
 }
 .search-bg {
-	background-image: url(_Images/cheetah3.jpg);
+	background-image: url(Images/cheetah3.jpg);
 }
 
 .explore-bg {
-	background-image: url(_Images/ram.jpg);
+	background-image: url(Images/ram.jpg);
 }
 #logo {
 	position: fixed;
