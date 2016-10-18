@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE StudentResults SYSTEM "StudentResults.dtd">
+
+<StudentResults>
+<StudentTeam>
+	<TeamNumber>What is your research identification number?</TeamNumber>
+
+	<Observation>What was your observation?</Observation>
+
+	<Question>What was your research question?</Question>
+
+	<Hypothesis>What was your hypothesis?</Hypothesis>
+
+	<DataQueryParameters>Please upload a chart of your data query parameters.</DataQueryParameters>
+		
+	<Results>Based on the data you collected, what were your results?</Results>
+	
+	<Conclusion>Based on your results, what are your conclusions?</Conclusion>
+
+	<FutureDirection>Based on your findings, what would you do next?</FutureDirection>
+</StudentTeam>
+
+</StudentResults>
