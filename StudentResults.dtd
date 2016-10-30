@@ -1,6 +1,5 @@
-<!ELEMENT StudentResults (StudentTeam,TeamNumber,Observation,Question,Hypothesis,DataQueryParameters,Results,Conclusion,FutureDirection)>
-	
-	<!ELEMENT StudentTeam (#PCDATA)>
+<!ELEMENT StudentResults (StudentTeam|TeamNumber|Observation|Question|Hypothesis|DataQueryParameters|Results|Conclusion|FutureDirection)>
+
 	<!ELEMENT TeamNumber (#PCDATA)>
 	<!ELEMENT Observation (#PCDATA)>
 	<!ELEMENT Question (#PCDATA)>
@@ -9,4 +8,3 @@
 	<!ELEMENT Results (#PCDATA)>
 	<!ELEMENT Conclusion (#PCDATA)>
 	<!ELEMENT FutureDirection (#PCDATA)>
-	
