@@ -32,6 +32,10 @@ html {
 	background-image: url(Images/ram.jpg);
 }
 
+.current-bg {
+	background-image: url(Images/buffalo.jpg);
+}
+
 #logo {
 	position: fixed;
 	top: 10px;
