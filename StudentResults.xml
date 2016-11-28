@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE StudentResults SYSTEM "StudentResults.dtd">
+
+<StudentResults>
+<StudentTeam>
+	<TeamNumber>16S0102</TeamNumber>
+
+	<Observation>Our background research revealed that elephants are very protective of their young.</Observation>
+
+	<Question>Does the location elephants spend their time in change when they are with a calf?</Question>
+
+	<Hypothesis>In areas with predators that are a threat to calves but not adults, we predict there will be less elephants with calves, as opposed to areas where there are no predators.</Hypothesis>
+
+	<DataQueryParameters>Latitutde and longitude of elephant locations, predator locations, and presence of elephant calfs.</DataQueryParameters>
+
+	<Results>We observed the same distribution of elephants with or without calves in all tested areas, regardless of predator presence.</Results>
+
+	<Conclusion>Elephants stay in the same general areas whether or not they’re with a calf.</Conclusion>
+
+	<FutureDirection>Although our hypothosis was not supported, there were some slight differences observed in elephant with or without calf distribution. We could do further research to see if there are any ecological factors that could have contributed to these differences.</FutureDirection>
+</StudentTeam>
+
+</StudentResults>
