@@ -126,6 +126,21 @@ a:hover {
 	color: white;
 	background: rgba(0, 0, 0, .7);
 }
+#social {
+	position: relative;
+	line-height: 150%;
+	top: 125px;
+	width: 30%;
+	height: auto;
+	z-index: 1;
+	float: right;
+	font-size: 16px;
+	padding: 2%;
+	margin: 0px;
+	text-align: left;
+	color: white;
+	background: rgba(0, 0, 0, .7);
+}
 
 h3 {
 	color: red;
