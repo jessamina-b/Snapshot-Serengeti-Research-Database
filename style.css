@@ -18,8 +18,7 @@ html {
 }
 
 .help-bg {
-	background-image: url(Images/deer.jpg);
-	background-position: top;
+	background-image: url(Images/buffalo.jpg);
 }
 .upload-bg {
 	background-image: url(Images/elephant.jpg);
@@ -33,7 +32,9 @@ html {
 }
 
 .current-bg {
-	background-image: url(Images/buffalo.jpg);
+
+	background-image: url(Images/deer.jpg);
+	background-position: top;
 }
 
 #logo {
@@ -116,7 +117,7 @@ a:hover {
 }
 
 #snapshot {
-	position: relative;
+	position: fixed;
 	line-height: 150%;
 	top: 125px;
 	width: 30%;
